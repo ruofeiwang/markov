@@ -1,0 +1,1 @@
+Every installation of Python comes with a set of modules called the standard library. These range in function from defining the types that you¡¯ve used, such as lists and dicts, to encrypting or compressing data. Some of these libraries are 
